@@ -1,1 +1,2 @@
-create an avatar for user
+add and remove users
+change the rules
